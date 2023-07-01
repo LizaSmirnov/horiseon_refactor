@@ -28,7 +28,7 @@ body {
     color: #d9dcd6;
 }
 /* gives of the pramaters of the boxing and font for the header */
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,11 +36,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {  
+.header nav ul {  
     list-style-type: none ;
 }
 /* displays the header titles next to each other instead on on top (block) */
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 20px;
 }
