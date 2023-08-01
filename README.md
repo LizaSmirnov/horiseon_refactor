@@ -6,6 +6,9 @@
 - Reassess the CSS code and change the code to read more dry.
 - Keep website the same during all these change
 
+## Launch Application
+
+- To launch the application please open the code in your code editor and hover over the index.html. From the drop down menu select "Run in live server".
 
 ## Credits
 
@@ -32,15 +35,3 @@ PERFORMANCE OF THIS SOFTWARE.
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-
-## Features
-
-N/A yet
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
