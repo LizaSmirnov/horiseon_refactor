@@ -8,7 +8,7 @@
 
 ## Launch Application
 
-- To launch the application please open the code in your code editor and hover over the index.html. From the drop down menu select "Run in live server".
+- To launch the application please open the code in your code editor and hover over the index.html. From the drop-down menu select "Run in live server".
 
 ## Credits
 
@@ -31,24 +31,4 @@ LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 
-## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-<<<<<<< HEAD
-=======
-
-## Features
-
-N/A yet
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
-![image](https://github.com/LizaSmirnov/horiseon_refactor/assets/122588135/f63a387a-035d-4a88-b8b3-1de14020083e)
-
->>>>>>> 3130df05db4a9f643b1c4fd6d8a48a308e91165a
