@@ -2,9 +2,9 @@
 
 ## Description
 
-- Reasses html code given and change the code to semantic html.
+- Reassess html code given and change the code to semantic HTML.
 - Reassess the CSS code and change the code to read more dry.
-- Keep website the same during all these change
+- Keep the website the same during all these changes
 
 ## Launch Application
 
@@ -35,3 +35,20 @@ PERFORMANCE OF THIS SOFTWARE.
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
+<<<<<<< HEAD
+=======
+
+## Features
+
+N/A yet
+
+## How to Contribute
+
+N/A
+
+## Tests
+
+N/A
+![image](https://github.com/LizaSmirnov/horiseon_refactor/assets/122588135/f63a387a-035d-4a88-b8b3-1de14020083e)
+
+>>>>>>> 3130df05db4a9f643b1c4fd6d8a48a308e91165a
